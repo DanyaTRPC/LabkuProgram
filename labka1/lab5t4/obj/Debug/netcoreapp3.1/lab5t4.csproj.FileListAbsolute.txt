@@ -1,0 +1,13 @@
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.exe
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.deps.json
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.runtimeconfig.json
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.runtimeconfig.dev.json
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.dll
+D:\project\Лабораторні C#\lab5t4\bin\Debug\netcoreapp3.1\lab5t4.pdb
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.csprojAssemblyReference.cache
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.AssemblyInfoInputs.cache
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.AssemblyInfo.cs
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.csproj.CoreCompileInputs.cache
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.dll
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.pdb
+D:\project\Лабораторні C#\lab5t4\obj\Debug\netcoreapp3.1\lab5t4.genruntimeconfig.cache
