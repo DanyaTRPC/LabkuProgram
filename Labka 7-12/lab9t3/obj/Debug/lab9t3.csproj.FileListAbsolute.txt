@@ -1,0 +1,20 @@
+D:\project\Лабораторні C#\labka3\lab9t3\bin\Debug\lab9t3.exe.config
+D:\project\Лабораторні C#\labka3\lab9t3\bin\Debug\lab9t3.exe
+D:\project\Лабораторні C#\labka3\lab9t3\bin\Debug\lab9t3.pdb
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.csprojAssemblyReference.cache
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.Form1.resources
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.Properties.Resources.resources
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.csproj.GenerateResource.cache
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.csproj.CoreCompileInputs.cache
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.exe
+D:\project\Лабораторні C#\labka3\lab9t3\obj\Debug\lab9t3.pdb
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\bin\Debug\lab9t3.exe.config
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\bin\Debug\lab9t3.exe
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\bin\Debug\lab9t3.pdb
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.csprojAssemblyReference.cache
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.Form1.resources
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.Properties.Resources.resources
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.csproj.GenerateResource.cache
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.csproj.CoreCompileInputs.cache
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.exe
+D:\project\Лабораторні C#\Labka 7-12\lab9t3\obj\Debug\lab9t3.pdb

@@ -1,0 +1,10 @@
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\bin\Debug\lab7t2.exe.config
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\bin\Debug\lab7t2.exe
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\bin\Debug\lab7t2.pdb
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.csprojAssemblyReference.cache
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.Form1.resources
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.Properties.Resources.resources
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.csproj.GenerateResource.cache
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.csproj.CoreCompileInputs.cache
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.exe
+D:\project\Лабораторні C#\Labka 7-12\lab7t2\obj\Debug\lab7t2.pdb
