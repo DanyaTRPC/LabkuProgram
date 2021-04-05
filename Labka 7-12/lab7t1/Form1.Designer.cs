@@ -70,7 +70,7 @@ namespace lab7t1
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(118, 273);
+            this.textBox1.Location = new System.Drawing.Point(12, 68);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 3;

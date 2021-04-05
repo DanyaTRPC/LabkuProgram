@@ -18,9 +18,9 @@ namespace lab11t1
 
         }
 
-        public double countBall()
+        public override double areaBall()
         {
-            double B = n * areaBall();
+            double B = n * (4 * Math.PI * Math.Pow(r, 2));
             return B;
         }
     }

@@ -36,7 +36,11 @@ namespace lab9t1
         {
             set
             {
-                a = value;
+                if (value > 0)
+                {
+                    a = value;
+                }
+                
             }
             get { return a; }
         }
@@ -44,7 +48,10 @@ namespace lab9t1
         {
             set
             {
-                b = value;
+                if (value > 0)
+                {
+                    b = value;
+                }
             }
             get { return b; }
         }
@@ -52,7 +59,10 @@ namespace lab9t1
         {
             set
             {
-                c = value;
+                if (value > 0)
+                {
+                    c = value;
+                }
             }
             get { return c; }
         }

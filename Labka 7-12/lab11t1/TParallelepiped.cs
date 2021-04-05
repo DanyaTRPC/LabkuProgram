@@ -18,9 +18,9 @@ namespace lab11t1
             this.n = n;
         }
 
-        public double countParallelepiped()
+        public override double areaParallelepiped()
         {                       
-           double P = n * areaParallelepiped();
+           double P = n * ((a * b) + (a * h) + (b * h));
            return P;            
         }
     }

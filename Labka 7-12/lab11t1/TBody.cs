@@ -31,22 +31,22 @@ namespace lab11t1
 
         }
 
-        public double areaParallelepiped()
+        public virtual double areaParallelepiped()
         {
             double S = (a * b + a * h + b * h);
             return S;
         }
-        public double capacityParallelepiped()
+        public virtual double capacityParallelepiped()
         {
             double V = a * b * h;
             return V;
         }
-        public double areaBall()
+        public virtual double areaBall()
         {
             double S = 4*Math.PI * Math.Pow(r, 2);
             return S;
         }
-        public double capacityBall()
+        public virtual double capacityBall()
         {
             double V = (4 / 3) * Math.PI * Math.Pow(r, 3);
             return V;

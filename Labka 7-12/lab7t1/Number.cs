@@ -8,10 +8,15 @@ using System.Collections;
 
 namespace lab7t1
 {
-    class Class1
+    class Number
     {
+        public int a;
+        public Number(int a)
+        {
+            this.a = a;
+        }
 
-        public static void Sum(string[] args, int a)
+        public int Sum()
         {
             string s = Convert.ToString(a);
             List<int> list = new List<int>();
@@ -22,9 +27,10 @@ namespace lab7t1
 
             }
             int sum1 = list.ToArray().Sum();
+            return sum1;
 
         }
-        public static void Main(string[] args, int a)
+        public int Main()
         {
 
             string s = Convert.ToString(a);
@@ -33,10 +39,9 @@ namespace lab7t1
             for (int i = 0; i < arr.Length; i++)
             {
                 list.Add(Int32.Parse(new String(arr[i], 1)));
-                Console.WriteLine(list[i]);
             }
-            List<int> list1 = new List<int>();
-            int number1 = list1.Count;
+            int number1 = list.Count;
+            return number1;
         }
     }
 }

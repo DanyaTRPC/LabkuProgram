@@ -62,15 +62,11 @@ namespace lab8t1
         {
             return new TTriangle(triangle.AB + randTriangle.AB,triangle.AC+randTriangle.AC,
                 triangle.BC+randTriangle.BC);
-            TTriangle n1 = new TTriangle(triangle);
-            TTriangle n2 = new TTriangle(randTriangle);
         }
         public static TTriangle operator -(TTriangle triangle, TTriangle randTriangle)
         {
             return new TTriangle(triangle.AB - randTriangle.AB, triangle.AC - randTriangle.AC,
                 triangle.BC - randTriangle.BC);
-            TTriangle m1 = new TTriangle(triangle);
-            TTriangle m2 = new TTriangle(randTriangle);
         }
         public static TTriangle operator *(TTriangle triangle, double k)
         {

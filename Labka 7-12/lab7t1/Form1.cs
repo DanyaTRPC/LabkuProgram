@@ -24,30 +24,15 @@ namespace lab7t1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
-            string s = textBox1.Text;
-            List<int> list = new List<int>();
-            char[] arr = s.ToCharArray();
-            for (int i = 0; i < arr.Length; i++)
-            {
-                list.Add(Int32.Parse(new String(arr[i], 1)));
 
-            }
-            int sum1 = list.ToArray().Sum();
-            textBox3.Text = sum1.ToString();
+            Number nmb = new Number(Convert.ToInt32(textBox1.Text));
+            textBox3.Text = nmb.Sum().ToString();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string s = textBox1.Text;
-            List<int> list = new List<int>();
-            char[] arr = s.ToCharArray();
-            for (int i = 0; i < arr.Length; i++)
-            {
-                list.Add(Int32.Parse(new String(arr[i], 1)));
-            }
-            int number1 = list.Count;
-            textBox4.Text = number1.ToString();
+            Number nmb = new Number(Convert.ToInt32(textBox1.Text));
+            textBox4.Text = nmb.Main().ToString();
         }
     }
 }

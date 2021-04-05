@@ -8,50 +8,52 @@ namespace lab9t2
 {
     class TDate
     {
-        public int Date;
+        public int days;
         public int month;
         public int year;
-        public int d;
-        public int m;
-        public int y;
-        
-        public TDate(int Date, int month, int year, int d, int m, int y)
+        public int addDays;
+        public int addMonth;
+        public int addYear;
+
+        TDate()
         {
-            this.Date = Date;
+            this.days = 0;
+            this.month = 0;
+            this.year = 0;
+            this.addDays = 0;
+            this.addMonth = 0;
+            this.addYear = 0;
+        }
+        public TDate(int days, int month, int year, int addDays, int addMonth, int addYear)
+        {
+            this.days = days;
             this.month = month;
             this.year = year;
-            this.d = d;
-            this.m = m;
-            this.y = y;
+            this.addDays = addDays;
+            this.addMonth = addMonth;
+            this.addYear = addYear;
+
 
         }
 
-        public int magnificationDate()
+        public string magnificationDays()
         {
-             Date += d;
-                if (Date == 31)
-                {
-                    month++;
-                } 
-             return Date; 
+            DateTime date1 = new DateTime(year, month, days);
+            return $"{date1.AddDays(addDays)}";
         }
-        public int magnificationMonth()
+        public string magnificationMonth()
         {
-             month += m;
-                if (month == 13)
-                {
-                    year++;
-                }
-            return month; 
+            DateTime date1 = new DateTime(year, month, days);
+            return $"{date1.AddMonths(addMonth)}"; 
         }
-        public int magnificationYear()
+        public string magnificationYear()
         {
-             year += y; 
-             return year; 
+            DateTime date1 = new DateTime(year, month, days);
+            return $"{date1.AddYears(addYear)}";
         }
-        public string ToString(int Date, int month, int year)
+        public string Tostring()
         {
-            return $"d: {Date}, m:{month}, y:{year}";
+            return $"days: {days}, month:{month}, year:{year}";
         }
 
     }

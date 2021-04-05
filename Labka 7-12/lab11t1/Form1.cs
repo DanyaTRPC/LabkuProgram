@@ -52,7 +52,7 @@ namespace lab11t1
             TParallelepiped bp = new TParallelepiped(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text),
                             Convert.ToDouble(textBox3.Text), Convert.ToDouble(textBox4.Text), Convert.ToInt32(textBox9.Text));
 
-            textBox10.Text = bp.countParallelepiped().ToString();
+            textBox10.Text = bp.areaParallelepiped().ToString();
 
         }
         
@@ -60,7 +60,7 @@ namespace lab11t1
         {
             TBall bl = new TBall(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text),
                             Convert.ToDouble(textBox3.Text), Convert.ToDouble(textBox4.Text), Convert.ToInt32(textBox9.Text));
-            textBox11.Text = bl.countBall().ToString();
+            textBox11.Text = bl.areaBall().ToString();
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace lab11t1
                             Convert.ToDouble(textBox3.Text), Convert.ToDouble(textBox4.Text), Convert.ToInt32(textBox9.Text));
             TParallelepiped bp = new TParallelepiped(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text),
                             Convert.ToDouble(textBox3.Text), Convert.ToDouble(textBox4.Text), Convert.ToInt32(textBox9.Text));
-            textBox12.Text = (bl.countBall() + bp.countParallelepiped()).ToString();
+            textBox12.Text = (bl.areaBall() + bp.areaParallelepiped()).ToString();
         }
     }
 }
