@@ -1,0 +1,13 @@
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.exe
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.deps.json
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.runtimeconfig.json
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.runtimeconfig.dev.json
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.dll
+D:\project\Лабораторні C#\labka1\lab8(5)t3\bin\Debug\netcoreapp3.1\lab8(5)t3.pdb
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.csprojAssemblyReference.cache
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.AssemblyInfoInputs.cache
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.AssemblyInfo.cs
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.csproj.CoreCompileInputs.cache
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.dll
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.pdb
+D:\project\Лабораторні C#\labka1\lab8(5)t3\obj\Debug\netcoreapp3.1\lab8(5)t3.genruntimeconfig.cache
