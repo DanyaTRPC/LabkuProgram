@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<infoList>
+	<info ID="1">
+		<Name_employee>Лозан С.Л.</Name_employee>
+		<Workplace_address>Берегівська ЗОШ</Workplace_address>
+		<The_presence_of_diphtheria_vaccination>Вакцинована</The_presence_of_diphtheria_vaccination>
+	</info>
+	<info ID="1">
+		<Name_employee>Курах Є.О.</Name_employee>
+		<Workplace_address>Берегівська ЗОШ</Workplace_address>
+		<The_presence_of_diphtheria_vaccination>Вакцинований</The_presence_of_diphtheria_vaccination>
+	</info>
+	<info ID="1">
+		<Name_employee>Власюк О.І.</Name_employee>
+		<Workplace_address>Берегівська ЗОШ</Workplace_address>
+		<The_presence_of_diphtheria_vaccination>Вакцинований</The_presence_of_diphtheria_vaccination>
+	</info>
+	<info ID="1">
+		<Name_employee>Маргітич О.В.</Name_employee>
+		<Workplace_address>Берегівська ЗОШ</Workplace_address>
+		<The_presence_of_diphtheria_vaccination>Не вакцинована</The_presence_of_diphtheria_vaccination>
+	</info>
+	<info ID="1">
+		<Name_employee>Сливка І.І.</Name_employee>
+		<Workplace_address>Берегівська ЗОШ</Workplace_address>
+		<The_presence_of_diphtheria_vaccination>Не вакцинований</The_presence_of_diphtheria_vaccination>
+	</info>
+</infoList>
